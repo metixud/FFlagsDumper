@@ -21,7 +21,7 @@
 #include <psapi.h>
 
 #pragma comment(lib, "wininet.lib")
-
+// ud trust
 auto hex_enabled = true;
 
 static auto cwc(void* contents, size_t size, size_t nmemb, void* userp) -> size_t
