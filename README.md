@@ -20,3 +20,5 @@ Open the project in Visual Studio, make sure you're targeting **Release x64**, t
 - This tool performs a memory dump. For more complete FFlags, a static dump from a dumped `RobloxPlayerBeta.exe` is recommended
 - The dumped FFlags depend on the game you are connected to. Each game can have different flags enabled/disabled.
 - Flags break on Roblox updates; you'll need to redump after each update
+## i'm not posting fflags anymore but the dumper works!*
+# DISCONTINUED
